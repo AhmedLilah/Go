@@ -1,0 +1,77 @@
+x w
+y z
+
+Sum : 45
+
+times : 5
+5
+6
+7
+8
+9
+
+Switching on : 5
+
+
+vertex : {5, 10}
+
+Array of ints:
+	 1 10
+
+Array of strings:
+	Hello, World!
+
+Slices:
+	[1 10] [Hello]
+
+Slices Modifying the Array:
+	[100 10] [100 10 100]
+
+Slices resizing:
+	[1 2 3]
+
+Slices resizing:
+	[1 2 3 0 1 2 3 4]
+
+Slices resizing:
+	[]
+
+Slices resizing:
+	[1 2 3 0 1 2 3 4 0 0 0 0]
+
+0	1
+1	2
+2	3
+3	0
+4	1
+5	2
+6	3
+7	4
+8	0
+9	0
+10	0
+11	0
+
+Key: name, Value: Ahmed S. Lilah
+Key: age, Value: 25
+
+[0 1 2 3 4 5]
+
+[0 2 4 6 8 10]
+
+Vertex function : 11.180340
+Vertex method   : 11.180340
+
+Vertex:
+	5 10
+
+The interface main.Vertex hold the type main.Vertex and the return vlues are {5 10} and true
+
+This inteface holds a value of type main.Vertex.
+
+Index of 15 in [10 20 15 -10] is 2
+
+Index of hello in [foo bar baz] is -1
+
+Memory got freed
+Deferred:  5
